@@ -1,0 +1,29 @@
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\bin\Debug\Clase3.dll.config
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\bin\Debug\Clase3.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\bin\Debug\Clase3.pdb
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\bin\Debug\EntityFramework.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\bin\Debug\EntityFramework.xml
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\obj\Debug\Clase3.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\obj\Debug\Clase3.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\obj\Debug\Clase3.pdb
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\obj\Debug\Clase3.Migrations.InitialCreate.resources
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\obj\Debug\Clase3.csproj.GenerateResource.Cache
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\Clase3\obj\Debug\Clase3.Migrations.Categorias.resources
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\bin\Debug\Clase3.dll.config
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\bin\Debug\Clase3.dll
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\bin\Debug\Clase3.pdb
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\bin\Debug\EntityFramework.dll
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\bin\Debug\EntityFramework.SqlServer.dll
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\bin\Debug\EntityFramework.xml
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\bin\Debug\EntityFramework.SqlServer.xml
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.csprojResolveAssemblyReference.cache
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.Migrations.InitialCreate.resources
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.Migrations.Categorias.resources
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.csproj.GenerateResource.Cache
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.dll
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.pdb
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.Migrations.segundamigracion.resources
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.Migrations.terceramigracion.resources
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.Migrations.segundamigracion1.resources

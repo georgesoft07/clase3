@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BibliotecaEFModelStoreContainer" CdmEntityContainer="BibliotecaEFEntities">
+    <EntitySetMapping Name="LibroCorto">
+      <EntityTypeMapping TypeName="BibliotecaEFModel.LibroCorto">
+        <MappingFragment StoreEntitySet="LibroCorto">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionName="BibliotecaEFModel.Store.LongitudDeTituloEnLibros" FunctionImportName="LongitudDeTituloEnLibros">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BibliotecaEFModel.LongitudDeTituloEnLibros_Result">
+          <ScalarProperty Name="NombreDeLibro" ColumnName="NombreDeLibro" />
+          <ScalarProperty Name="LongitudDelNombre" ColumnName="LongitudDelNombre" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

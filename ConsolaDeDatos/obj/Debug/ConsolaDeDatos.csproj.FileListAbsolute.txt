@@ -1,0 +1,27 @@
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\bin\Debug\ConsolaDeDatos.exe.config
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\obj\Debug\ConsolaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\bin\Debug\ConsolaDeDatos.exe
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\bin\Debug\ConsolaDeDatos.pdb
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\bin\Debug\Clase3.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\bin\Debug\EntityFramework.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\bin\Debug\Clase3.pdb
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\bin\Debug\EntityFramework.xml
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\obj\Debug\ConsolaDeDatos.exe
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ConsolaDeDatos\obj\Debug\ConsolaDeDatos.pdb
+C:\CLASE 3\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\bin\Debug\ConsolaDeDatos.exe.config
+C:\CLASE 3\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\obj\Debug\ConsolaDeDatos.exe
+C:\CLASE 3\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\obj\Debug\ConsolaDeDatos.pdb
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\bin\Debug\ConsolaDeDatos.exe.config
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\obj\Debug\ConsolaDeDatos.exe
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\obj\Debug\ConsolaDeDatos.pdb
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\bin\Debug\ConsolaDeDatos.exe
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\bin\Debug\ConsolaDeDatos.pdb
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\bin\Debug\Clase3.dll
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\bin\Debug\EntityFramework.dll
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\bin\Debug\Clase3.pdb
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\bin\Debug\EntityFramework.xml
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\ConsolaDeDatos\obj\Debug\ConsolaDeDatos.csprojResolveAssemblyReference.cache

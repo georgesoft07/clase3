@@ -1,0 +1,10 @@
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ProgramacionEnBaseDeDatos\bin\Debug\ProgramacionEnBaseDeDatos.dll.config
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ProgramacionEnBaseDeDatos\bin\Debug\ProgramacionEnBaseDeDatos.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ProgramacionEnBaseDeDatos\bin\Debug\ProgramacionEnBaseDeDatos.pdb
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ProgramacionEnBaseDeDatos\bin\Debug\EntityFramework.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ProgramacionEnBaseDeDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ProgramacionEnBaseDeDatos\bin\Debug\EntityFramework.xml
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ProgramacionEnBaseDeDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ProgramacionEnBaseDeDatos\obj\Debug\ProgramacionEnBaseDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ProgramacionEnBaseDeDatos\obj\Debug\ProgramacionEnBaseDeDatos.dll
+C:\Users\Visual_Dom\Desktop\Clases\Clase3\ProgramacionEnBaseDeDatos\obj\Debug\ProgramacionEnBaseDeDatos.pdb
