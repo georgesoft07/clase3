@@ -66,9 +66,9 @@
     <Compile Include="Migrations\201709201933392_terceramigracion.Designer.cs">
       <DependentUpon>201709201933392_terceramigracion.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201709201956472_segundamigracion1.cs" />
-    <Compile Include="Migrations\201709201956472_segundamigracion1.Designer.cs">
-      <DependentUpon>201709201956472_segundamigracion1.cs</DependentUpon>
+    <Compile Include="Migrations\201709210245220_maxlengthedad.cs" />
+    <Compile Include="Migrations\201709210245220_maxlengthedad.Designer.cs">
+      <DependentUpon>201709210245220_maxlengthedad.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Modelos\Autor.cs" />
@@ -94,8 +94,8 @@
     <EmbeddedResource Include="Migrations\201709201933392_terceramigracion.resx">
       <DependentUpon>201709201933392_terceramigracion.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201709201956472_segundamigracion1.resx">
-      <DependentUpon>201709201956472_segundamigracion1.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201709210245220_maxlengthedad.resx">
+      <DependentUpon>201709210245220_maxlengthedad.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

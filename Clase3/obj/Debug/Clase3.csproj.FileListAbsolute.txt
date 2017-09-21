@@ -26,4 +26,4 @@ C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-maste
 C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.pdb
 C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.Migrations.segundamigracion.resources
 C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.Migrations.terceramigracion.resources
-C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.Migrations.segundamigracion1.resources
+C:\CLASE 3 C#\EntityFrameworkCodeFirst-master (2)\EntityFrameworkCodeFirst-master\Clase3\obj\Debug\Clase3.Migrations.maxlengthedad.resources

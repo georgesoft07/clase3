@@ -19,7 +19,7 @@ namespace Clase3.Contextos
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
-            modelBuilder.Entity<Autor>().Property(x => x.edad).HasMaxLength(50);
+            modelBuilder.Entity<Autor>().Property(x => x.edad).HasMaxLength(100);
 
         }
     }
